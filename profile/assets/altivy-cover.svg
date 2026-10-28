@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Altivy</title>
+  <desc id="desc">Capa institucional com o símbolo de ascensão aberta da Altivy, fundo escuro e acentos teal. .NET, Azure, DevOps.</desc>
+  <defs>
+    <radialGradient id="teal">
+      <stop stop-color="#0f766e" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#0f766e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blue">
+      <stop stop-color="#2563eb" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glass" x2="1" y2="1">
+      <stop stop-color="#ffffff" stop-opacity=".07"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".02"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="#0d1118"/>
+  <ellipse cx="1060" cy="80" rx="460" ry="310" fill="url(#teal)"/>
+  <ellipse cx="160" cy="360" rx="500" ry="280" fill="url(#blue)"/>
+  <rect x="28" y="28" width="1224" height="304" rx="18" fill="url(#glass)" stroke="#ffffff" stroke-opacity=".14"/>
+  <g transform="translate(66 58) scale(2.2)">
+    <path d="M30 96 L50 26 H63 L47 96 Z" fill="#ffffff"/>
+    <path d="M105 96 L85 26 H72 L88 96 Z" fill="#ffffff"/>
+    <path d="M51 60 L67 84 L83 60 Z M58 60 H76 L67 74 Z" fill="#5eead4" fill-rule="evenodd"/>
+    <path d="M46 96 H88 L84 104 H50 Z" fill="#ffffff"/>
+  </g>
+  <text x="344" y="190" font-family="'Segoe UI', Arial, sans-serif" font-size="96" font-weight="700" letter-spacing="3" fill="#ffffff">Altivy</text>
+  <text x="350" y="244" font-family="'Segoe UI', Arial, sans-serif" font-size="24" letter-spacing="3" fill="#5eead4">.NET / AZURE / DEVOPS</text>
+  <g fill="none" stroke="#5eead4">
+    <path d="M872 246 L970 148 L1030 208 L1150 88" stroke-opacity=".22" stroke-width="2"/>
+    <path d="M1022 88 H1150 V216" stroke-opacity=".22" stroke-width="2"/>
+    <circle cx="970" cy="148" r="7" fill="#0d1118" stroke-opacity=".6" stroke-width="2"/>
+    <circle cx="1030" cy="208" r="7" fill="#0d1118" stroke-opacity=".6" stroke-width="2"/>
+  </g>
+</svg>
